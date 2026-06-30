@@ -1,4 +1,4 @@
-#  Hi, I'm Joel Mayinja
+# Joel Mayinja
 
  **Computer Science undergraduate** at Uganda Christian University  
  Specializing in **network design, server administration, robotics and research, software construction**  
