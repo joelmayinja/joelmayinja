@@ -47,8 +47,8 @@ A web project for showcasing events, tickets, and venue information.
 
 ## Skills and tools
 
-**Languages and web:** Python · C · SQL · HTML · CSS
-**Data and development:** MySQL · Git · Jupyter Notebook
+**Languages and web:** Python · C · SQL · HTML · CSS<br>
+**Data and development:** MySQL · Git · Jupyter Notebook<br>
 **Systems and hardware:** Windows Server · Networking · Cisco Packet Tracer · Arduino
 
 ## Current focus
